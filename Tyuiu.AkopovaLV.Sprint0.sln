@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AkopovaLV.Sprint0.Task0.V0", "Tyuiu.AkopovaLV.Sprint0.Task0.V0\Tyuiu.AkopovaLV.Sprint0.Task0.V0.csproj", "{C7BAE149-F328-41E4-BD56-CEE69420DA11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{A398D255-F3C7-4435-9749-8668FABC98E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AkopovaLV.Sprint0.Task1.V0", "Tyuiu.AkopovaLV.Sprint0.Task1.V0\Tyuiu.AkopovaLV.Sprint0.Task1.V0.csproj", "{88782A16-BE44-4904-BE53-43E386A5FBDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{C7BAE149-F328-41E4-BD56-CEE69420DA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7BAE149-F328-41E4-BD56-CEE69420DA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7BAE149-F328-41E4-BD56-CEE69420DA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88782A16-BE44-4904-BE53-43E386A5FBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88782A16-BE44-4904-BE53-43E386A5FBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88782A16-BE44-4904-BE53-43E386A5FBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88782A16-BE44-4904-BE53-43E386A5FBDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C7BAE149-F328-41E4-BD56-CEE69420DA11} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{88782A16-BE44-4904-BE53-43E386A5FBDA} = {A398D255-F3C7-4435-9749-8668FABC98E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {529A3E09-944A-43B2-A2D5-5BFCB7382359}
